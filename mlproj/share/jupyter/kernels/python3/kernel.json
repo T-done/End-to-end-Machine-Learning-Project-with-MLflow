@@ -1,0 +1,14 @@
+{
+ "argv": [
+  "c:/Users/tusha/OneDrive/Desktop/UB - Subject Docs/ML projects/End-to-end-Machine-Learning-Project-with-MLflow/mlproj\\python.exe",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3 (ipykernel)",
+ "language": "python",
+ "metadata": {
+  "debugger": false
+ }
+}
